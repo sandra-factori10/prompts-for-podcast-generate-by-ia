@@ -54,7 +54,7 @@ Utilizei para o projeto uma esteira de prompts para gerar cada etapa do processo
 
 ## 📚 Materiais
 
-- [Notion Template](https://www.notion.so/Come-ando-com-o-Notion-1797364b6c4e80dda221ef445d05c959)
+- [Notion Template](ttps://www.notion.so/CRIANDO-UM-PODCAST-COM-IAs-1797364b6c4e80dda221ef445d05c959)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 ## 🛠️ Instruções de execução
