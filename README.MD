@@ -65,9 +65,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `canvas`
 
-## 👨‍💻 Aprendiz
-        href="www.linkedin.com/in/sanra-factori10">
-        LinkedIn
----
+## 👨‍💻 Pequena Aprendiz
+        [Sandrinha Factori da CAIXA](www.linkedin.com/in/sanra-factori10) 
 
 ⌨️ com 💜 por [Sandra Factori](https://github.com/sandra-factori10)
