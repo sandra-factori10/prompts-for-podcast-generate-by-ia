@@ -29,12 +29,12 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Caixa - IA Generativa com Microsof Copilot com a [DIO](https://dio.me)
+<ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Caixa - IA Generativa com Microsof Copilot com a [DIO](https://dio.me)
 e com orientações de [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
-Projeto com o objetivo de gerar um Podcast com dicas financeiras pela Podcaster Sandrinha Factori [Sandra Factori](www.linkedin.com/in/sanra-factori10) funcionária Caixa há 18 anos que apesar de graduada em Tecnologia da Informação em 2004 ingressou em 2006 na empresa e se desenvolveu no segmento de negócios mas que está se divertindo muito em se atualizar no universo de TI adormecido há 18 anos e adquirir novos conhecimentos no Mundo das IAs Generativas e a oportunidad de Transformação Digital CAIXA.
+Projeto com o objetivo de gerar um Podcast com dicas financeiras pela **Podcaster Sandrinha** [Sandra Factori](www.linkedin.com/in/sanra-factori10) funcionária Caixa há 18 anos que apesar de graduada em Tecnologia da Informação em 2004 ingressou em 2006 na empresa e se desenvolveu no segmento de negócios mas que está se divertindo muito em se atualizar no universo de TI adormecido há 18 anos e adquirir novos conhecimentos no **Mundo das IAs Generativas** e a oportunidade de **Transformação Digital CAIXA**.
 
-Neste episódio ela desmistifica o assunto OPEN FINANCE para um público jovem infanto/juvenil de uma maneira simples utilizando ferramentas de IA através de prompts mais trabalhados.
+Neste episódio a jovem podcaster traz dicasde maneira simples e lúdica desmistificando o assunto OPEN FINANCE voltado para um público jovem infanto/juvenil de uma maneira mas que serve para qualquer nicho de público que não possui profundos conhecimentos financeiros.
 
 Utilizei para o projeto uma esteira de prompts para gerar cada etapa do processo criativo  e através de um fork no github do expert [Felipe Aguiar](https://github.com/felipeAguiarCode) desenvolvi meu projeto criando um episódio de PODCAST "O que é OPEN FINANCE" 
 
