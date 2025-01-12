@@ -29,16 +29,19 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Caixa - IA Generativa com Microsof Copilot com a [DIO](https://dio.me)
+e com orientações de [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um Podcast com dicas financeiras pela Podcaster Sandrinha Factori [Sandra Factori](www.linkedin.com/in/sanra-factori10) funcionária Caixa há 18 anos que apesar de graduada em Tecnologia da Informação em 2004 ingressou em 2006 na empresa e se desenvolveu no segmento de negócios mas que está se divertindo muito em se atualizar no universo de TI adormecido há 18 anos e adquirir novos conhecimentos no Mundo das IAs Generativas e a oportunidad de Transformação Digital CAIXA.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Neste episódio ela desmistifica o assunto OPEN FINANCE para um público jovem infanto/juvenil de uma maneira simples utilizando ferramentas de IA através de prompts mais trabalhados.
+
+Utilizei para o projeto uma esteira de prompts para gerar cada etapa do processo criativo  e através de um fork no github do expert [Felipe Aguiar](https://github.com/felipeAguiarCode) desenvolvi meu projeto criando um episódio de PODCAST "O que é OPEN FINANCE" 
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Canvas](https://https://www.canva.com/pt_br/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -46,15 +49,13 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Canvas Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
 
 ## 🛠️ Instruções de execução
 
@@ -62,7 +63,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `canvas`
 
 ## 👨‍💻 Expert
 
