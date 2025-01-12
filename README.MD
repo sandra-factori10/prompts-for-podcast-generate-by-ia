@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/OPEN FINANCE.png"
+    src="./assets/imag_podcaster_ sandrinha _OPEN FINANCE.png"
     width="300"
 />
 </p>
