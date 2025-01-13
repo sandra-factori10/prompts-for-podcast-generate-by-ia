@@ -32,7 +32,7 @@
 <ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Caixa - IA Generativa com Microsof Copilot com a [DIO](https://dio.me)
 e com orientações de [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
-Projeto com o objetivo de gerar um Podcast com dicas financeiras pela **Podcaster Sandrinha** [Sandra Factori](www.linkedin.com/in/sanra-factori10) funcionária Caixa há 18 anos que apesar de graduada em Tecnologia da Informação em 2004 ingressou em 2006 na empresa e se desenvolveu no segmento de negócios mas que está se divertindo muito em se atualizar no universo de TI adormecido há 18 anos e adquirir novos conhecimentos no **Mundo das IAs Generativas** e a oportunidade de **Transformação Digital CAIXA**.
+Projeto com o objetivo de gerar um Podcast com dicas financeiras pela **Podcaster Sandrinha** [Sandra Factori](www.linkedin.com/in/sandra-factori10) funcionária Caixa há 18 anos que apesar de graduada em Tecnologia da Informação em 2004 ingressou em 2006 na empresa e se desenvolveu no segmento de negócios mas que está se divertindo muito em se atualizar no universo de TI adormecido há 18 anos e adquirir novos conhecimentos no **Mundo das IAs Generativas** e a oportunidade de **Transformação Digital CAIXA**.
 
 Neste episódio a jovem podcaster traz dicas de maneira simples e lúdica desmistificando o assunto OPEN FINANCE voltado para um público jovem infanto/juvenil de uma maneira leve mas que também serve para qualquer nicho de público que não possui profundos conhecimentos financeiros.
 
@@ -41,7 +41,7 @@ Utilizei para o projeto uma esteira de prompts para gerar cada etapa do processo
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Canvas](https://https://www.canva.com/pt_br/)
+- [Canvas](https://https://www.canva.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -59,13 +59,14 @@ Utilizei para o projeto uma esteira de prompts para gerar cada etapa do processo
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais` orientada por [Felipe Aguiar](https://github.com/felipeAguiarCode) para criar um podcast de maneira automatizada.
+O passo a passo segue abaixo:
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `canvas`
 
 ## 👨‍💻 Pequena Aprendiz
-        [Sandrinha Factori da CAIXA](www.linkedin.com/in/sanra-factori10) 
+        [Sandrinha Factori da CAIXA](www.linkedin.com/in/sandra-factori10) 
 
 ⌨️ com 💜 por [Sandra Factori](https://github.com/sandra-factori10)
