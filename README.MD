@@ -62,9 +62,9 @@ Utilizei para o projeto uma esteira de prompts para gerar cada etapa do processo
 Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais` orientada por [Felipe Aguiar](https://github.com/felipeAguiarCode) para criar um podcast de maneira automatizada.
 O passo a passo segue abaixo:
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `canvas`
+- 🤖 1. Usei os prompts de roteiro no `chagpt`
+- 🤖 2. Usei os prompts de roteiro gerados pelo chatgpt no `ElevenLabs`
+- 🤖 3. Usei os prompts de artes no `canvas`
 
 ## 👨‍💻 Pequena Aprendiz
        
