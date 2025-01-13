@@ -41,7 +41,7 @@ Utilizei para o projeto uma esteira de prompts para gerar cada etapa do processo
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Canvas](https://https://www.canva.com/)
+- [Canva](https://www.canva.com/pt_br/gerador-imagem-ia/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
